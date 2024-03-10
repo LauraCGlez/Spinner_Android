@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiPrimerApp</string>
+    <string name="number_a">introducir numero</string>
+    <string name="number_b">introducir numero</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="btnRestar">Restar</string>
+    <string name="btnMultiplicar">Multiplicar</string>
+    <string name="btnDividir">Dividir</string>
+    <string name="resultado">Resultado</string>
+    <string name="btnClear">clear</string>
+    <string name="seleccionOperador">Seleccione una operacion</string>
+    <string name="cambiarPantallaSpinnerBtn">Pantalla Calculadora button</string>
+    <string name="cambiarPantallaBtn">Pantalla Calculadora Spinner</string>
+</resources>
